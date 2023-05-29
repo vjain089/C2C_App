@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Book_Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>359bb058-5163-4255-814e-4ba4418968de</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fadbfc77-3a71-4614-a866-7b377e1154a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>acbfaa2c-905e-4bda-a9f5-ceef93a0f69f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8d0a7e24-489d-4857-9460-e7414ccb6686</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f56f0dff-5e14-48e3-b428-b4900ffeb80c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'In-Clinic Consultation'</defaultValue>
+      <description></description>
+      <id>fadbfc77-3a71-4614-a866-7b377e1154a2</id>
+      <masked>false</masked>
+      <name>Appointment_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'29'</defaultValue>
+      <description></description>
+      <id>acbfaa2c-905e-4bda-a9f5-ceef93a0f69f</id>
+      <masked>false</masked>
+      <name>Appointment_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'In-Clinic Regular'</defaultValue>
+      <description></description>
+      <id>8d0a7e24-489d-4857-9460-e7414ccb6686</id>
+      <masked>false</masked>
+      <name>Consultation_Type</name>
+   </variable>
+   <variable>
+      <defaultValue>'Raksh Ed'</defaultValue>
+      <description></description>
+      <id>f56f0dff-5e14-48e3-b428-b4900ffeb80c</id>
+      <masked>false</masked>
+      <name>Patient_Name</name>
+   </variable>
+</TestCaseEntity>

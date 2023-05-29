@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Instant Consultation</name>
+   <tag></tag>
+   <elementGuidId>f35c86b0-7426-4b24-ae86-8970660f029c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${Appointment_type}' or . = '${Appointment_type}')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.font-weight-bold.border_style.m-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking-menu']/div[3]/ul/li/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>13250b40-46b0-4672-843c-50887615fb18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold border_style m-0</value>
+      <webElementGuid>6ae17a74-0c55-4ae5-8912-659446f41776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Appointment_type}</value>
+      <webElementGuid>7afbfb8d-db54-49dd-96cb-7750e3e56c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking-menu&quot;)/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPopover-paper MuiPaper-elevation8 MuiPaper-rounded&quot;]/ul[@class=&quot;MuiList-root MuiMenu-list MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button&quot;]/p[@class=&quot;font-weight-bold border_style m-0&quot;]</value>
+      <webElementGuid>7402607f-219f-4ebd-8b0b-b36fd84969a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking-menu']/div[3]/ul/li/p</value>
+      <webElementGuid>622a4883-181f-4536-8b03-84a3cde3385d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Mode'])[1]/following::p[1]</value>
+      <webElementGuid>c09ba034-3a2c-4118-b53d-8f36c228122b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Instant Consultation']/parent::*</value>
+      <webElementGuid>2b68d9b9-7c26-40b3-987b-893489450176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/p</value>
+      <webElementGuid>6ff20376-f71c-4197-a4e2-c01333aa5a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Instant Consultation' or . = 'Instant Consultation')]</value>
+      <webElementGuid>04e185fc-c98c-4f81-b375-30b73122faef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

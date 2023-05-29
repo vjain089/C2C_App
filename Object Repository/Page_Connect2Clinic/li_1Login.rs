@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1Login</name>
+   <tag></tag>
+   <elementGuidId>62bec050-ea91-4d40-a4f3-c54cbe983323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.cuurentStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8751b2b0-c967-40ed-9180-445f77f93ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cuurentStatus</value>
+      <webElementGuid>dd4eab23-1d52-4eb9-bb39-e038ec8bd698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1Login</value>
+      <webElementGuid>78980b6e-c8d3-496a-a4dd-eff158d3f355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid pl-0 pr-0 doctor-contanier overflow-hidden&quot;]/section[@class=&quot;pro-body-content&quot;]/div[@class=&quot;pro-doctor-video&quot;]/div[1]/div[@class=&quot;video-col-left p-0&quot;]/div[@class=&quot;step_progress_box&quot;]/ul[1]/li[@class=&quot;cuurentStatus&quot;]</value>
+      <webElementGuid>c9b0c4a6-5570-41c9-8d3c-ddb11c0f790f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li</value>
+      <webElementGuid>6c5f025f-9b29-4076-9938-f7ce54a7d0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO NOT CLOSE THIS WINDOW.'])[1]/following::li[1]</value>
+      <webElementGuid>94321e52-b20f-4551-b1e2-66aae3cb09b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient will join the consultation shortly'])[1]/following::li[1]</value>
+      <webElementGuid>0f0a682d-c07f-4986-a696-331cc98cabc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Now'])[1]/preceding::li[4]</value>
+      <webElementGuid>4de8683d-e08b-4863-8df0-725396c5d196</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Mode'])[1]/preceding::li[4]</value>
+      <webElementGuid>fe808381-90c3-44e1-baf7-bf15e5964416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>ae86087b-c910-45d3-b042-61399e30a2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '1Login' or . = '1Login')]</value>
+      <webElementGuid>33663159-e0a0-4ce1-a7b5-9a2feaff3edb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

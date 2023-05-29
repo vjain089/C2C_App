@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1_2</name>
+   <tag></tag>
+   <elementGuidId>1d672972-fdf0-40a4-ac8e-ab0de9314bc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.erx-view-container-header-cont > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div[3]/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dbc403d4-bf9c-4299-b141-9fd2237dd47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/crossIcon.07e1499d.svg</value>
+      <webElementGuid>1288802a-64cc-4ddd-bcf5-38ba5a40e485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDrawer-root MuiDrawer-modal erx-view-container MuiModal-root css-y28f86&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper MuiDrawer-paperAnchorRight css-r77ig0&quot;]/div[@class=&quot;erx-view-header&quot;]/div[@class=&quot;erx-view-container-header-cont&quot;]/img[1]</value>
+      <webElementGuid>0b86fb67-cad8-45f5-b866-f29bf8f11bc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/div[2]/div/img</value>
+      <webElementGuid>bddc9b96-ce17-4fb1-b6ab-5b0e91f09a08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/crossIcon.07e1499d.svg']</value>
+      <webElementGuid>015fb256-7245-47c3-acd6-e528cff6fc71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

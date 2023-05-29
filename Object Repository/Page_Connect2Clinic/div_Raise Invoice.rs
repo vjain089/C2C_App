@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Raise Invoice</name>
+   <tag></tag>
+   <elementGuidId>5c1eedcc-7da2-4a13-94f6-fbbdc38e00b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div[4]/div/div[2]/div/div/span/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>13e67da8-2f6f-4568-9e08-49886f78c75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-menu-list-item</value>
+      <webElementGuid>db683fd0-c003-47e4-a127-4440f681a3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Raise Invoice</value>
+      <webElementGuid>f14e7b0f-51d9-426a-b079-b96b6f7471b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-9 col-12 p-0 dashboard-left-container&quot;]/div[1]/div[@class=&quot;dashboard-appointments-view-table ml-3 mt-4 mr-3&quot;]/div[@class=&quot;appointments-view-table-cell&quot;]/div[1]/div[@class=&quot;dashboard-appointments-table-container&quot;]/div[@class=&quot;dashboard-appointments-table-content d-flex pb-2&quot;]/div[@class=&quot;d-flex align-items-center col-md-2 justify-content-end&quot;]/span[@class=&quot;d-flex align-items-center col-md-2 justify-content-end&quot;]/div[1]/div[@class=&quot;filter-menu-list transform-style-custom&quot;]/div[@class=&quot;dropdown&quot;]/div[3]/div[@class=&quot;filter-menu-list-item&quot;]</value>
+      <webElementGuid>362fd5b1-0c48-42f1-87b9-532f98c008f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div[4]/div/div[2]/div/div/span/div/div/div/div[3]/div</value>
+      <webElementGuid>f3d54ae5-728e-4241-8f87-aa10c6c1e0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Vitals'])[1]/following::div[2]</value>
+      <webElementGuid>c656037c-a0bf-4714-b3bb-6901ce5f2c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule Follow-up'])[1]/following::div[4]</value>
+      <webElementGuid>46901a95-c4ef-4d12-94af-5be752a7201d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Prescription'])[1]/preceding::div[1]</value>
+      <webElementGuid>c8f19363-6e1b-4d65-af73-f94de04a9735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div[3]/div</value>
+      <webElementGuid>10eaf1fe-9491-4c4e-9bd0-dfc2a48f9c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Raise Invoice' or . = 'Raise Invoice')]</value>
+      <webElementGuid>25379b5e-0437-4022-b866-0e4ad87a62df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_C2C SMS</name>
+   <tag></tag>
+   <elementGuidId>5079aac6-acd8-4ef1-aa0a-8c89bf888cb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'C2C SMS' or . = 'C2C SMS')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.share_option_cont</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[7]/div/div[2]/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5bbd8481-1aa8-4ac3-84ab-df8cbb2431b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>share_option_cont</value>
+      <webElementGuid>0c3285c9-2ee6-426b-ab1b-5cb64781f802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C2C SMS</value>
+      <webElementGuid>7db634be-c5d4-4ca8-87f3-0267ed68f3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-3 col-12 p-0 dashboard-right-container&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;dashboard-profile&quot;]/div[@class=&quot;side_drawer_main active&quot;]/div[@class=&quot;side_drawer_container&quot;]/div[@class=&quot;side_drawer_body&quot;]/div[@class=&quot;instant_consultation_amount_cont_overflow px-2&quot;]/div[@class=&quot;share_option_cont&quot;]</value>
+      <webElementGuid>52be9a84-01f7-4999-a953-f23c75a8f6c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[7]/div/div[2]/div[3]/div[2]</value>
+      <webElementGuid>0137d576-9a64-411a-b5a0-03711695724b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[1]/following::div[2]</value>
+      <webElementGuid>dad28619-611f-470a-a52d-b895b6652f02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[1]/preceding::div[2]</value>
+      <webElementGuid>b8d1aea8-27bc-4400-aa8e-7defd5040770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]</value>
+      <webElementGuid>94fc34bb-995d-4e49-82b1-402e5084cf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'C2C SMS' or . = 'C2C SMS')]</value>
+      <webElementGuid>2d86344b-c9f9-4926-bfc7-24b4ac50cd09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

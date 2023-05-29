@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_In-Clinic Regular</name>
+   <tag></tag>
+   <elementGuidId>baf083b1-d4ba-49e8-a3fe-bc402c592f57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-select__control.react-select__control--is-focused.react-select__control--menu-is-open.css-b5ow5d-control > div.react-select__value-container.react-select__value-container--has-value.css-1hwfws3</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${Consultation_Type}' or . = '${Consultation_Type}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Type:'])[1]/following::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30377827-806f-4594-a19c-c4d9a3cd9ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-select__value-container react-select__value-container--has-value css-1hwfws3</value>
+      <webElementGuid>0b426da0-f3b0-46c8-9d53-7d93b8d5d0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-4-option-0</value>
+      <webElementGuid>c3ed91fe-57e2-4dd6-a95b-66ad2e49ee05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>b2173914-ac96-40c6-9efc-14bf38597044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Consultation_Type}</value>
+      <webElementGuid>71001a2b-86c4-4463-af6f-c6f53472e6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog physical-consult w-100 modal-lg modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;pc_modal_body pc_scroll modal-body&quot;]/div[@class=&quot;container col-12 ml-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 px-4&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;row py-4 divider-b&quot;]/div[@class=&quot;col-lg-7 col-12 d-flex flex-lg-row flex-column justify-content-lg-end justify-content-start align-items-lg-center align-items-start&quot;]/div[@class=&quot;col-lg-7 col-10 select-max-width&quot;]/div[@class=&quot;select_container&quot;]/div[@class=&quot;w-100 consultation-type css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-b5ow5d-control&quot;]/div[@class=&quot;react-select__value-container react-select__value-container--has-value css-1hwfws3&quot;]</value>
+      <webElementGuid>2c9c0120-a6c8-4a00-bdb8-4720afb4cd48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Type:'])[1]/following::div[5]</value>
+      <webElementGuid>d69d2757-49f4-4013-b62e-4394e79632c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/following::div[7]</value>
+      <webElementGuid>a37e2a37-f897-48c6-8e27-6ea09cee4af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Clinic Regular'])[2]/preceding::div[8]</value>
+      <webElementGuid>a610ac76-2dbc-4504-b529-b0f1b61a998a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>a6c9d4c5-9c80-498d-b7ab-2441fcbd47ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'In-Clinic Regular' or . = 'In-Clinic Regular')]</value>
+      <webElementGuid>a7893e19-ddc6-4425-ae1a-fd7ea1bcdbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-4-option-0']</value>
+      <webElementGuid>a40881a4-2de4-4c0d-81e7-135844922214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Clinic Regular'])[1]/following::div[10]</value>
+      <webElementGuid>c1bc4b35-3e16-4cc3-a044-2ee7879a12f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Type:'])[1]/following::div[16]</value>
+      <webElementGuid>9584bfda-621a-4536-b7c6-415ac35578a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Clinic Follow-up'])[1]/preceding::div[1]</value>
+      <webElementGuid>70831c85-883b-43cf-b6d3-0e7782d3118e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>6de10de8-75b2-4024-b090-1e763b27ece0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-4-option-0' and (text() = 'In-Clinic Regular' or . = 'In-Clinic Regular')]</value>
+      <webElementGuid>af258f20-51a1-4f44-b53b-cae2aa872a25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

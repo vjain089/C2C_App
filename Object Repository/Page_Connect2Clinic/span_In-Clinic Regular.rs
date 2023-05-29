@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_In-Clinic Regular</name>
+   <tag></tag>
+   <elementGuidId>833d0cb0-07b8-41c2-92a9-8829e99405af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-4-option-0 > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-4-option-0']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22d8c9e5-0615-47b2-ac96-5e6b19de259e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In-Clinic Regular</value>
+      <webElementGuid>d02fb075-aa5a-4a36-af50-1c6e6bf48911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-4-option-0&quot;)/span[1]/span[1]</value>
+      <webElementGuid>3416501e-71bb-491b-a331-3599ec233638</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-4-option-0']/span/span</value>
+      <webElementGuid>e3d04e32-4222-45cc-baab-53be607bc76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Clinic Regular'])[1]/following::span[3]</value>
+      <webElementGuid>b8b57b3b-2c53-4696-91c8-d21daeac1d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Type:'])[1]/following::span[8]</value>
+      <webElementGuid>8f2ef4a2-a712-40e3-b5d5-76c1321ff8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Clinic Follow-up'])[1]/preceding::span[1]</value>
+      <webElementGuid>d2e0b5fd-14e3-4e65-a413-cf6707e4d2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aayesha added 4998'])[1]/preceding::span[3]</value>
+      <webElementGuid>08c9dce0-1101-4953-9e5e-f289d7c7bd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span/span</value>
+      <webElementGuid>1ad90851-bd07-4d03-8838-81511777f95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'In-Clinic Regular' or . = 'In-Clinic Regular')]</value>
+      <webElementGuid>fa1f8720-150b-460b-81e3-bd045e958137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

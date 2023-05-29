@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2</name>
+   <tag></tag>
+   <elementGuidId>6da8369c-3faa-4421-8d68-47e6afe06ec1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > p.progress_value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6cd41171-8878-4906-bc43-f034094dbf4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>progress_value</value>
+      <webElementGuid>d1279f19-97a6-4fdc-b76e-a09c5021b04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>02204372-98c6-4bad-9685-828d939d810e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid pl-0 pr-0 doctor-contanier overflow-hidden&quot;]/section[@class=&quot;pro-body-content&quot;]/div[@class=&quot;pro-doctor-video&quot;]/div[1]/div[@class=&quot;video-col-left p-0&quot;]/div[@class=&quot;step_progress_box&quot;]/ul[1]/li[2]/p[@class=&quot;progress_value&quot;]</value>
+      <webElementGuid>4c120979-91d1-48bf-ad64-f0bf047a5f54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li[2]/p</value>
+      <webElementGuid>068d8621-5fd0-445d-86a5-b4221fc8ee49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO NOT CLOSE THIS WINDOW.'])[1]/following::p[3]</value>
+      <webElementGuid>289c769f-d611-4a46-a3ff-b6682c19feca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient will join the consultation shortly'])[1]/following::p[4]</value>
+      <webElementGuid>429d8751-dcc5-47a5-afe9-d7fd7bdb6ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Now'])[1]/preceding::p[6]</value>
+      <webElementGuid>f744667b-6685-4cca-80f7-fbd54d905516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Mode'])[1]/preceding::p[6]</value>
+      <webElementGuid>37614832-3764-45ee-a160-7f8df6a682ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2']/parent::*</value>
+      <webElementGuid>12de1933-a605-4629-9603-208dfe0e6a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/p</value>
+      <webElementGuid>1adbccf0-03df-4862-af88-a21cbae9e5d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2' or . = '2')]</value>
+      <webElementGuid>29de7524-ffed-4689-9873-22a5e2410628</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

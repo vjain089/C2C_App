@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_2Enter Details</name>
+   <tag></tag>
+   <elementGuidId>7c3161c9-9647-4681-bb68-e9e263c3f2c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>9610afca-070d-4c3b-aa19-53bddac871b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2Enter Details</value>
+      <webElementGuid>34db5d46-7d80-47ae-8edb-0e3f2dff33c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid pl-0 pr-0 doctor-contanier overflow-hidden&quot;]/section[@class=&quot;pro-body-content&quot;]/div[@class=&quot;pro-doctor-video&quot;]/div[1]/div[@class=&quot;video-col-left p-0&quot;]/div[@class=&quot;step_progress_box&quot;]/ul[1]/li[2]</value>
+      <webElementGuid>c998510d-a64f-4870-90b3-74628fa79843</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/section/div/div/div/div/ul/li[2]</value>
+      <webElementGuid>8d98052c-4884-41f0-811f-db56fd79e8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DO NOT CLOSE THIS WINDOW.'])[1]/following::li[2]</value>
+      <webElementGuid>689d33d2-704a-4aab-adb2-d25d56c5f8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient will join the consultation shortly'])[1]/following::li[2]</value>
+      <webElementGuid>fc6f992d-348e-4eb4-9856-e49eb4eed464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Now'])[1]/preceding::li[3]</value>
+      <webElementGuid>69fd60bd-7e1c-4e93-b544-9b2fdfb2ecb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Mode'])[1]/preceding::li[3]</value>
+      <webElementGuid>a70f00b5-87cd-4061-8bf4-d7cc053d74d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>d9f5c985-0c34-446a-a496-07a0892bc9e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '2Enter Details' or . = '2Enter Details')]</value>
+      <webElementGuid>de8de517-af70-4fcc-ad23-67203ba3ec0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

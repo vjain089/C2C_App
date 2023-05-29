@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10</name>
+   <tag></tag>
+   <elementGuidId>ec3f8b30-35ad-4cd0-bd7b-b8c7680f2fb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#1 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='1']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a2d057f-084e-4292-b829-f40374666a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+10%</value>
+      <webElementGuid>7b53692c-ce9e-4091-a59d-b9d9e5f36939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog physical-consult w-100 modal-lg modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;pc_modal_body pc_scroll modal-body&quot;]/div[@class=&quot;container col-12 ml-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 px-4&quot;]/div[@class=&quot;w-100&quot;]/section[@class=&quot;reviewshare&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-12 m-auto&quot;]/div[@class=&quot;row&quot;]/div[6]/div[@class=&quot;button-group-pills&quot;]/label[@id=&quot;1&quot;]/div[1]</value>
+      <webElementGuid>5263ff23-b69d-4c4e-8eee-44474aaa6bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='1']/div</value>
+      <webElementGuid>f87e0a7e-1df0-4f40-8515-594a45687b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::div[4]</value>
+      <webElementGuid>3824f1e4-e410-4b3f-ac82-97c471734cad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::div[5]</value>
+      <webElementGuid>20885716-efa1-473b-9596-461ac30e3850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc0fc87f-5386-4aca-b1be-660e02733415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online via C2C'])[1]/preceding::div[4]</value>
+      <webElementGuid>287308c4-c160-4be6-91f8-807432ac3575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+10%']/parent::*</value>
+      <webElementGuid>bcad7c6e-6373-4893-99e9-1a72754a446c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/div</value>
+      <webElementGuid>660661a3-c0fa-4edb-91be-5bd70ed2e771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+10%' or . = '+10%')]</value>
+      <webElementGuid>02e0539f-8764-48fa-93b3-4170e3ce524c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

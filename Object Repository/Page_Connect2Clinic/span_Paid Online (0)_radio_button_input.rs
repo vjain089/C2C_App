@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Paid Online (0)_radio_button_input</name>
+   <tag></tag>
+   <elementGuidId>23135df7-8f9a-43e0-bb55-de9ecae6a7fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div[2]/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88b36f12-b1b9-4642-84f1-96a691e436fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio_button_input</value>
+      <webElementGuid>d05644ca-f733-4e7d-bcd9-9d82247cd2f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-9 col-12 p-0 dashboard-left-container&quot;]/div[1]/div[@class=&quot;dashboard-appointments-view-table ml-3 mt-4 mr-3&quot;]/div[@class=&quot;payment-method-header&quot;]/div[1]/div[@class=&quot;radio-button-with-text-radio-button&quot;]/span[@class=&quot;radio_button_input&quot;]</value>
+      <webElementGuid>c3624d10-cc10-4699-9933-b2ff6ba0953b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div[2]/div/div[3]/span</value>
+      <webElementGuid>3ca79298-f29f-496a-938b-3064887891f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paid Online (0)'])[1]/following::span[1]</value>
+      <webElementGuid>20aa5c5c-abd9-46e7-9683-f944141cc995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[1]/following::span[2]</value>
+      <webElementGuid>0ca60e39-b237-42a1-b5ee-e376780fc13f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pay at Clinic (2)'])[1]/preceding::span[1]</value>
+      <webElementGuid>5365dafb-fef5-4ef7-afc4-9150cfc81563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PATIENT DETAILS'])[1]/preceding::span[1]</value>
+      <webElementGuid>4f6f57b4-1625-4ef9-9243-f8f10fac5cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>994c53c0-5d77-40dc-8cc5-878ffe46e49c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

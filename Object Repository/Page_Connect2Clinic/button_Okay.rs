@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Okay</name>
+   <tag></tag>
+   <elementGuidId>ffdbf720-75eb-4e15-b30c-f7a2dd249374</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.primary-cta-button.rounded-pill.py-2.px-3.mt-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Booked'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f044c27-d06d-4429-8e72-1b174a96fd46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn primary-cta-button rounded-pill py-2 px-3 mt-3</value>
+      <webElementGuid>e5122ed1-ba46-42c6-9f76-7dbc63a0a437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Okay</value>
+      <webElementGuid>cd90e93f-c0ff-436e-b955-02fe511fb521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog physical-consult w-100 modal-lg modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;pc_modal_body pc_scroll modal-body&quot;]/div[@class=&quot;container col-12 ml-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 px-4&quot;]/div[@class=&quot;w-100&quot;]/section[@class=&quot;py-3 booking-confirmation&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center px-md-5&quot;]/button[@class=&quot;btn primary-cta-button rounded-pill py-2 px-3 mt-3&quot;]</value>
+      <webElementGuid>a6573076-66d7-4be0-be41-015ede3bb192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultation Booked'])[1]/following::button[1]</value>
+      <webElementGuid>4c4d260f-bd95-4c8b-9b51-f9e773d6239a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review &amp; Share'])[2]/following::button[1]</value>
+      <webElementGuid>28b4621e-b30a-4738-b9b5-56a7d017951d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Okay']/parent::*</value>
+      <webElementGuid>d7d1a9eb-fec8-4ff8-ab85-147da0cee23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button</value>
+      <webElementGuid>30755581-1822-48f7-af7f-eba001636c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Okay' or . = 'Okay')]</value>
+      <webElementGuid>8d2ce98a-9d6b-4e7f-b1e1-cca1e837bd89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

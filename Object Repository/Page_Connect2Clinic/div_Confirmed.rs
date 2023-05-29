@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Confirmed</name>
+   <tag></tag>
+   <elementGuidId>d33506bd-6055-4336-a9fa-c9b36221c210</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Confirmed ' or . = 'Confirmed ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5482179-02d2-4cee-8ac4-0d5ca5436cc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-text overflow-guard</value>
+      <webElementGuid>eafc9bc5-e59e-4f3d-ac95-36e72a6682be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirmed </value>
+      <webElementGuid>d66d4676-ceba-4c39-a85f-b7b803ba2557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-9 col-12 p-0 dashboard-left-container&quot;]/div[1]/div[@class=&quot;dashboard-appointments-view-table ml-3 mt-4 mr-3&quot;]/div[@class=&quot;status-count-header&quot;]/div[@class=&quot;Summary-count&quot;]/div[@class=&quot;title-subtitle-card-container&quot;]/div[@class=&quot;title-text overflow-guard&quot;]</value>
+      <webElementGuid>b8a33127-c226-4d21-a27e-75be7fdd8131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>972efc21-b055-442c-92c7-0e1f467558b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Appts'])[1]/following::div[5]</value>
+      <webElementGuid>e971af62-6b28-46d9-be5e-a85768961136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='queue'])[1]/following::div[32]</value>
+      <webElementGuid>bcfdf5e0-b470-43d6-b6af-af2528d0d6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checked In'])[1]/preceding::div[2]</value>
+      <webElementGuid>71510d10-0a58-4999-b615-3a1bae98608b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Progress'])[1]/preceding::div[6]</value>
+      <webElementGuid>520c92ed-8c50-4791-8fa0-56458ca9bac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirmed']/parent::*</value>
+      <webElementGuid>5fa01cf6-77ac-4ab1-8cbc-9db9a32c84f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>fd52c036-7472-4a1f-9db0-1786cf043275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Confirmed ' or . = 'Confirmed ')]</value>
+      <webElementGuid>8e7b052c-936a-4bfd-ac8b-6aba083020b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='queue'])[1]/following::div[30]</value>
+      <webElementGuid>3a9aef38-c308-42fa-9f94-54736b0b6ae2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

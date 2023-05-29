@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>234c5a6d-a04d-461e-9cb3-3b297f3a72d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;calender icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='calender icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>23650629-4b1a-4cee-979b-d97703cf436b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/calendar.f9e4ad43.svg</value>
+      <webElementGuid>285d98e1-de51-487f-a922-13d82f3d87ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>calender icon</value>
+      <webElementGuid>b5a550b2-27d8-4f35-90b1-fce463a567de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade schedule-follow-modal modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;schedule-follow-up-modal-body&quot;]/div[4]/div[2]/div[@class=&quot;calendar-main-box-section&quot;]/div[@class=&quot;calendar-box-for-date&quot;]/img[1]</value>
+      <webElementGuid>d363b5ca-f346-44f6-85b2-d9a89fd3902c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='calender icon']</value>
+      <webElementGuid>161cb4df-4b00-4d5f-ab24-49cd68cf18ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/img</value>
+      <webElementGuid>129b7146-4f7b-4d0d-844a-b4dfc0f19334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/calendar.f9e4ad43.svg' and @alt = 'calender icon']</value>
+      <webElementGuid>52ce2873-5ef3-46a1-b0b3-e63919563fbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='calender arrow']</value>
+      <webElementGuid>5ee34955-c197-4fc1-a175-1f0121b49855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/img</value>
+      <webElementGuid>ff972903-be44-4896-85ef-37c31a720123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAHCAYAAAA8sqwkAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAADKADAAQAAAABAAAABwAAAABHFOl2AAAAWUlEQVQYGWMU23n/AiMjoz4DEeA/A8MFJqC6C0SohSj5//8iI4gFtGUB0JZ4fBr///+/8JW7YgJYAyFNMMUgdXANuDQhK8bQgK4JXTFIHisQ33V/AghjkwQAgZsspsqZHB4AAAAASUVORK5CYII=' and @alt = 'calender arrow']</value>
+      <webElementGuid>181d736e-ba35-4dce-8ac8-84dd60d4e7b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

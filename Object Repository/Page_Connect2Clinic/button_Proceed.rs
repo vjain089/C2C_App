@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Proceed</name>
+   <tag></tag>
+   <elementGuidId>24326502-6b63-4fb4-b041-68a6ec2b6186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.primary-cta-button.rounded-pill.py-2.px-5.button-style</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='₹ 0'])[2]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd7b78fc-746c-42d9-b210-05e20723df57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn primary-cta-button rounded-pill py-2 px-5 button-style</value>
+      <webElementGuid>4258d451-a287-47ed-b5d9-c92a2e840c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proceed</value>
+      <webElementGuid>dbbb2477-94df-4dd1-a334-3e0b12dcc5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade modal show&quot;]/div[@class=&quot;modal-dialog physical-consult w-100 modal-lg modal-dialog-centered modal-dialog-scrollable&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;pc_modal_body pc_scroll modal-body&quot;]/div[@class=&quot;container col-12 ml-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 px-4&quot;]/div[@class=&quot;w-100&quot;]/section[@class=&quot;reviewshare&quot;]/div[@class=&quot;row my-4&quot;]/div[@class=&quot;offset-lg-2 col-lg-8 col-12 d-flex justify-content-center&quot;]/button[@class=&quot;btn primary-cta-button rounded-pill py-2 px-5 button-style&quot;]</value>
+      <webElementGuid>94e34afb-a0eb-40e6-b5f2-7212ea4126d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹ 0'])[2]/following::button[1]</value>
+      <webElementGuid>c735150e-c14e-434b-a665-14de4de4e300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Fee'])[1]/following::button[1]</value>
+      <webElementGuid>0080f60f-0cd3-49d9-8dfc-6547328c4217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proceed']/parent::*</value>
+      <webElementGuid>e8677498-2a30-4b48-98f1-789ba9cd5ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[3]/div/button</value>
+      <webElementGuid>6a045fbb-ca00-45b7-9f24-749206ee0a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Proceed' or . = 'Proceed')]</value>
+      <webElementGuid>2bb39bd8-001d-456e-9da7-63710c97ebc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Patient will join the consultation shor_a60ea0</name>
+   <tag></tag>
+   <elementGuidId>eff2ad53-97a2-49cb-bdba-059c6c6be617</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pro-doctor-video</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/section/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb72049e-6416-4028-aec6-fa2d2d126189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-doctor-video</value>
+      <webElementGuid>428ecd8b-a545-4107-8972-efca9e252236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patient will join the consultation shortly Your instant consultation will start once your patient joins. The duration of consult will be 15 mins. Patient might take some time to make payment and join the consultation, please DO NOT CLOSE THIS WINDOW.1Login2Enter Details3Initiate Payment4Complete PaymentJoin Now</value>
+      <webElementGuid>5567e453-cdac-474d-b477-f4d96e79aeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid pl-0 pr-0 doctor-contanier overflow-hidden&quot;]/section[@class=&quot;pro-body-content&quot;]/div[@class=&quot;pro-doctor-video&quot;]</value>
+      <webElementGuid>30c91eff-4c6f-4706-a291-e5c20382ac81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/section/div</value>
+      <webElementGuid>8b5f1b54-3482-4b66-989c-b1130b111ad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>9a64dcdb-96cb-415f-b39e-e434b66b092b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Patient will join the consultation shortly Your instant consultation will start once your patient joins. The duration of consult will be 15 mins. Patient might take some time to make payment and join the consultation, please DO NOT CLOSE THIS WINDOW.1Login2Enter Details3Initiate Payment4Complete PaymentJoin Now' or . = 'Patient will join the consultation shortly Your instant consultation will start once your patient joins. The duration of consult will be 15 mins. Patient might take some time to make payment and join the consultation, please DO NOT CLOSE THIS WINDOW.1Login2Enter Details3Initiate Payment4Complete PaymentJoin Now')]</value>
+      <webElementGuid>81b2f316-dcfd-4d5a-bb30-47bc4b393aed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>C2C_Tc1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bc64290-624b-4bd6-b8cc-2ecc709cbb99</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60e2be26-adc1-41fd-b8e6-fdfac13ca67a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'06:43 PM - 06:45 PM'</defaultValue>
+      <description></description>
+      <id>60e2be26-adc1-41fd-b8e6-fdfac13ca67a</id>
+      <masked>false</masked>
+      <name>Time_Slot</name>
+   </variable>
+</TestCaseEntity>

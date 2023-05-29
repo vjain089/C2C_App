@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_0309 PM-0311 PM</name>
+   <tag></tag>
+   <elementGuidId>43562135-a4e9-40aa-94a9-7cc1f51728aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '${Time_Slot}' or . = '${Time_Slot}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a2e2813-2ab8-4c6e-a7fb-d934e93a102f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>available-slots DoctorProfile_timeBox__A3GIP DoctorProfile_modalSlotWidth__1VRGf</value>
+      <webElementGuid>2ed141d5-8979-413f-8e77-9c8661534c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540</value>
+      <webElementGuid>fe8b18a5-5864-4697-9bfc-8f4a66bd1f34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Time_Slot}</value>
+      <webElementGuid>c2963841-141c-4518-98dc-72d37cc4f23a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540&quot;)</value>
+      <webElementGuid>5a999464-b4ef-4520-9219-9aea4c23b88c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540']</value>
+      <webElementGuid>05b7a1aa-2142-40fc-a771-27e99708879c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::button[5]</value>
+      <webElementGuid>ffe60159-551a-4628-aab3-8efc291cd38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Continue'])[1]/preceding::button[29]</value>
+      <webElementGuid>fabf29de-0973-4f7a-b477-bdc447fcbd5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button[6]</value>
+      <webElementGuid>71d6e1c9-0701-4288-a664-303a0c7fa73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = '75eb5f55-e5a1-4fb0-bffd-d944c710e64f-1684422540' and (text() = '03:09 PM-03:11 PM' or . = '03:09 PM-03:11 PM')]</value>
+      <webElementGuid>08a96962-67ef-45f1-a089-08da6bdd0de6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

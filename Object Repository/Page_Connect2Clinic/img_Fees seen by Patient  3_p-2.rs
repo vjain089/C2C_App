@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Fees seen by Patient  3_p-2</name>
+   <tag></tag>
+   <elementGuidId>80316af3-086a-4fde-a40f-f0d130e740db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.p-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[7]/div/div[2]/div[3]/div[2]/button/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7ee8904f-6efc-49c0-a4dd-0892b49915e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-2</value>
+      <webElementGuid>b899656c-4cf6-4c9f-8353-dba7a3506964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/c2c_sms.24eceb49.svg</value>
+      <webElementGuid>70c16d50-5878-4e32-9703-eca3979896e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-3 col-12 p-0 dashboard-right-container&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;dashboard-profile&quot;]/div[@class=&quot;side_drawer_main active&quot;]/div[@class=&quot;side_drawer_container&quot;]/div[@class=&quot;side_drawer_body&quot;]/div[@class=&quot;instant_consultation_amount_cont_overflow px-2&quot;]/div[@class=&quot;share_option_cont&quot;]/button[@class=&quot;normal_sms_btn&quot;]/div[@class=&quot;my-3 border normal_sms&quot;]/img[@class=&quot;p-2&quot;]</value>
+      <webElementGuid>40821553-4e95-44b1-ae39-911c72d27ff0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[7]/div/div[2]/div[3]/div[2]/button/div/img</value>
+      <webElementGuid>fc194f76-81d2-4931-8f35-5e44c3197d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/img</value>
+      <webElementGuid>02c6776f-ab8e-4251-a652-a702a2ead714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/c2c_sms.24eceb49.svg']</value>
+      <webElementGuid>2e05c349-1e8e-475d-ae0f-38ebcb750007</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

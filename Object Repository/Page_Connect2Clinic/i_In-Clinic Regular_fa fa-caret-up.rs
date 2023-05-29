@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_In-Clinic Regular_fa fa-caret-up</name>
+   <tag></tag>
+   <elementGuidId>81963521-1fb5-46f7-84b6-124a177b2b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-caret-up</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//i[@class = 'fa fa-caret-up' and @aria-hidden = 'true']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[label='Consultation Type:']//following::i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fc8c33d5-ac54-4ed6-a2ee-b0cf5d8f85db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-caret-up</value>
+      <webElementGuid>b061622d-22e9-4ed3-8797-4a276d806696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-9 col-12 p-0 dashboard-left-container&quot;]/div[1]/div[@class=&quot;dashboard-appointments-view-header px-3&quot;]/div[@class=&quot;container-fluid mb-3 px-sm-0  px-lg-3 px-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center w-100 dashboard-view-header-mobile-view&quot;]/div[@class=&quot;col-sm-7 col-lg-3 col-7 col-md-4 pt-4 pl-sm-0 pl-2 pr-0&quot;]/div[1]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;react-select__control react-select__control--is-focused react-select__control--menu-is-open css-1i1tw7h-control&quot;]/div[@class=&quot;react-select__indicators css-1wy0on6&quot;]/div[@class=&quot;react-select__indicator react-select__dropdown-indicator css-1gtu0rj-indicatorContainer&quot;]/i[@class=&quot;fa fa-caret-up&quot;]</value>
+      <webElementGuid>354a42b2-27ff-4de5-83f1-c213ef8d0fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fa401acc-d401-4ec4-99c9-fba1557fdbff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/i</value>
+      <webElementGuid>40f6790d-25b4-4e54-a3e9-ca88fa19015b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/i</value>
+      <webElementGuid>4c908ada-c98d-4ee2-9ac3-415acd6a05bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/i</value>
+      <webElementGuid>b3dec949-f96f-421c-83ec-91650d2d370f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[3]/div/span/i</value>
+      <webElementGuid>fce84ed9-fad1-48ac-8112-7b9c5b5cc4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>0060a679-2a6c-48e2-99b6-7c3229d52fd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

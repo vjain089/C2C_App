@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Share Link</name>
+   <tag></tag>
+   <elementGuidId>93e1821a-1d4a-4fbd-8322-ee2bdc297f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Share Link' or . = 'Share Link')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c1da9145-49f8-4b4e-95ba-25a023717d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn  share-button rounded-pill border-0 mt-3  </value>
+      <webElementGuid>c7b46f4f-cbe3-46fd-9029-8c0a6ec5b3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>05b61690-072f-4490-9924-38b8a3e977ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Share Link</value>
+      <webElementGuid>69614ac8-17d8-4393-81aa-a65924c615a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row m-0&quot;]/div[@class=&quot;side-menu&quot;]/div[@class=&quot;wrap-all-the-things&quot;]/div[@class=&quot;col-12 px-0&quot;]/div[@class=&quot;container-fluid p-0&quot;]/div[@class=&quot;row dashboard-container m-0&quot;]/div[@class=&quot;col-lg-3 col-12 p-0 dashboard-right-container&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;dashboard-profile&quot;]/div[@class=&quot;side_drawer_main active&quot;]/div[@class=&quot;side_drawer_container&quot;]/div[@class=&quot;side_drawer_body&quot;]/div[@class=&quot;instant_consultation_amount_cont_overflow px-2&quot;]/div[3]/div[@class=&quot;container mt-3 px-0&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn  share-button rounded-pill border-0 mt-3&quot;]</value>
+      <webElementGuid>e7139d69-368f-406e-a72e-5c9ac64ef2c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>809cf54a-86f6-40e3-8208-602cf221310d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[7]/div/div[2]/div[3]/div[3]/div/div[3]/button</value>
+      <webElementGuid>c7835b6c-76c8-4dc2-b31b-422ad5846dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rakshana'])[1]/following::button[1]</value>
+      <webElementGuid>185fae74-48eb-4666-bef8-1a35afb9d54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[1]/preceding::button[1]</value>
+      <webElementGuid>e28a9420-fac1-4390-99c6-269dac2dd24b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Share Link']/parent::*</value>
+      <webElementGuid>126f40a0-c110-4537-b7ae-809cb01683b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>b79be64a-acb8-4ea4-b2e4-c2ce51b53761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Share Link' or . = 'Share Link')]</value>
+      <webElementGuid>ab37ebab-1dad-4459-859a-4874cae1ea06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
